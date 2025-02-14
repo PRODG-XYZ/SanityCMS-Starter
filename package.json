@@ -56,7 +56,7 @@
     "autoprefixer": "^10.4.16",
     "clsx": "^2.0.0",
     "cssnano": "^6.0.1",
-    "dompurify": "^2.4.3",
+    "dompurify": "^3.2.4",
     "dotenv": "^16.0.3",
     "easy-css-transform-builder": "^0.1.0",
     "eslint": "8.29.0",
